@@ -12,3 +12,4 @@ def binsrch(li,value):
 			low = mid+1
 li=[1,2,3,4,5,6]
 print(binsrch(li,6))
+#this is test
